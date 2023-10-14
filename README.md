@@ -25,4 +25,4 @@
 </p>
 
 ### :robot: Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelcfg&show_icons=true&theme=tokyonight&include_all_commits=true" alt="samuelcfg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelferreiracode&show_icons=true&theme=tokyonight&include_all_commits=true" alt="samuelcfg" /></p>
